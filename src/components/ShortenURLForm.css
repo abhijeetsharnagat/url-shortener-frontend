@@ -1,0 +1,35 @@
+/* ShortenURLForm.css */
+
+.container {
+  background-color: #121212;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.text-light {
+  color: #ffffff;
+}
+
+.input-field {
+  background-color: #333;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.submit-button {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.text-danger {
+  color: #ff4136;
+}
